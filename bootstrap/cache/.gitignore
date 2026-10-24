@@ -1,0 +1,3 @@
+* 
+!.gitignore 
+//O arquivo .gitignore serve para definir quais arquivos e pastas o Git deve ignorar e não enviar para o repositório, sendo a regra * usada para ignorar tudo na pasta e a exceção !.gitignore para salvar apenas o próprio arquivo no servidor.
